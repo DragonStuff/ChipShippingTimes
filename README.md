@@ -1,7 +1,7 @@
 # ChipShippingTimes
 Average time for NextThingCo to ship to different areas of the world based off users.
 
-_Please note:  
+**Please note**:  
 _NOV 2015 pre-orders are estimated to ship by JUN 30._  
 _DEC 2015 – JAN 2016 pre-orders are estimated to ship by JUL 9._  
 _FEB 2016 – APR 2016 pre-orders are estimated to ship by JUL 17_  
