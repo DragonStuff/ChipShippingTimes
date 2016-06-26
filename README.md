@@ -10,7 +10,7 @@ _JUN 2016 pre-orders are estimated to ship by JUL 25._
 
 Data was taken from: https://bbs.nextthing.co/t/kickstarters-shipping-notification-check-in/4285/
 
-Please push a pull request matching the format in this file to add your shipment times to the database. If you are a NTC employee with shipment statistics, I would greatly appreciate you passing them along! :)
+Please push a pull request matching the format in this file to add your shipment times to the database. **If you are a NTC employee with shipment statistics, I would greatly appreciate you passing them along!** :smile:
 
 This cheatsheet will help you with formatting if you have never used Markdown before: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
