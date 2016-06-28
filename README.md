@@ -26,10 +26,10 @@ This cheatsheet will help you with formatting if you have never used Markdown be
   Timeframe: 2016-05-31 05:55 pm -> 2016-06-10 12:51 am  
   Result: 9 days, 7 hours, 0 minutes and 0 seconds  
 
-  User: Copernicus (order #3989) 
-  Destination Country: US/Ohio 
-  Timeframe: 2016-06-21 11:24 pm -> 2016-06-22 09:33 pm 
-  Result: 22 hours, 9 minutes 
+  User: Copernicus (order #3989)  
+  Destination Country: US/Ohio  
+  Timeframe: 2016-06-21 11:24 pm -> 2016-06-22 09:33 pm  
+  Result: 22 hours, 9 minutes  
   
 ##Time from "Order packaged by warehouse" to "Processed":
 
@@ -38,10 +38,10 @@ This cheatsheet will help you with formatting if you have never used Markdown be
   Timeframe: 2016-06-23 11:33 am -> 2016-06-23 05:00 pm  
   Result: 5 hours, 27 minutes and 0 seconds  
 
-  User: Copernicus (order #3989) 
-  Destination Country: US/Ohio 
-  Timeframe: 2016-06-22 09:33 pm -> 2016-06-23 03:34 am 
-  Result: 6 hours, 1 minute 
+  User: Copernicus (order #3989)  
+  Destination Country: US/Ohio  
+  Timeframe: 2016-06-22 09:33 pm -> 2016-06-23 03:34 am  
+  Result: 6 hours, 1 minute  
 
 ##Time from "Processed" to "Scanned at Landmark crossdock facility":
 
@@ -50,14 +50,14 @@ This cheatsheet will help you with formatting if you have never used Markdown be
   Timeframe: 2016-06-10 06:26 pm -> 2016-06-22 11:26 am  
   Result: 11 days, 17 hours, 0 minutes and 0 seconds  
 
-  User: Copernicus (order #3989) 
-  Destination Country: US/Ohio 
-  Timeframe: 2016-06-23 03:34 am -> 2016-06-27 03:11 am 
-  Result: 3 days, 23 hours, 37 minutes 
+  User: Copernicus (order #3989)  
+  Destination Country: US/Ohio  
+  Timeframe: 2016-06-23 03:34 am -> 2016-06-27 03:11 am  
+  Result: 3 days, 23 hours, 37 minutes  
 
 ##Time from "Scanned at Landmark crossdock facility" to "Crossing border and in transit to carrier hub":
 
-  User: Copernicus (order #3989)
-  Destination Country: US/Ohio
-  Timeframe: 2016-06-27 03:11 am -> 2016-06-28 12:56 am
-  Result: 21 hours, 45 minutes
+  User: Copernicus (order #3989)  
+  Destination Country: US/Ohio  
+  Timeframe: 2016-06-27 03:11 am -> 2016-06-28 12:56 am  
+  Result: 21 hours, 45 minutes  
